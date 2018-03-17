@@ -1,0 +1,21 @@
+﻿   
+00 00 00
+100 0 
+0 
+Hello there!  
+(Press Space to advance)
+||seperator||
+  
+00 00 00
+100 0 
+0 
+How would you like to work with the World’s most talented video game development team?
+||seperator||
+   
+00 00 00
+100 0 
+0 
+1 - Yes
+2 – No
+(Use numbers on keyboard)
+||seperator||

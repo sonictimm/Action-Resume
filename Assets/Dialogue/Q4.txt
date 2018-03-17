@@ -1,0 +1,46 @@
+Tim Schafer
+02 00 00
+100 0 
+0 
+The point is, you’ll do great at Double Fine.
+||seperator||
+You
+23 00 00
+100 0 
+0 
+Did you even read my resume?
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+Resumes are sooooo boring.
+Making a game to showcase your skill is marginally better,
+||seperator||
+Tim Schafer
+05 00 00
+100 0 
+0 
+but nowadays it’s getting cliche.
+Even our interns are doing it.
+||seperator||
+You
+10 00 00
+100 0 
+0 
+Wait, then why am I here?
+||seperator||
+Tim Schafer
+10 00 00
+100 0 
+0 
+Because we have an opening and you need a job.
+Are you ready to join our team?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – Say Yes
+2 – How about no.
+||seperator||

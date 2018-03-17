@@ -1,0 +1,49 @@
+Tim Schafer
+02 00 00
+100 0 
+0 
+
+||seperator||
+
+00 00 00
+100 0 
+0 
+Tim Schafer grabs your Nintendo Switch and gnaws the joystick off of it.
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+1 
+
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+...
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+...
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+So as I was saying, you’d be a great fit at Double Fine.  
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+Are you ready?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – Say Yes
+2 – How about no.
+||seperator||

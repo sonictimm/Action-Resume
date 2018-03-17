@@ -1,0 +1,55 @@
+Double Fine
+22 00 00
+100 0 
+1 
+  
+||seperator||
+Double Fine
+22 00 00
+100 0 
+1 
+  
+||seperator||
+Mother
+63 00 00
+100 0 
+1 
+  
+||seperator||
+ Father
+63 00 00
+100 0 
+1 
+
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Double Fine staff duct tapes your parents to a streetlight.
+||seperator||
+You
+42 00 00
+100 0 
+1 
+  
+||seperator||
+Double Fine
+42 00 00
+100 0 
+0 
+Let's peel out of here!
+||seperator||
+SUCCESS:
+00 00 00
+100 0 
+0 
+You got away!
+||seperator||
+SUCCESS:
+00 00 00
+100 0 
+0 
+You got away!
+Get ready to drive.
+||seperator||

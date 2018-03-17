@@ -1,0 +1,105 @@
+﻿Double Fine
+50 00 00
+100 0 
+1 
+
+||seperator||
+ 
+00 00 00
+100 0 
+0 
+Double Fine Productions has arrived at your house!
+||seperator||
+You
+14 00 00
+100 0 
+0 
+D-D-D-Double Fine? But--
+||seperator||
+Double Fine
+50 00 00
+100 0 
+0 
+You had us at hello.
+Welcome aboard!
+||seperator||
+Parents
+51 00 00
+100 0 
+1 //Parents begin sneaking in...
+  
+||seperator||
+Double Fine
+51 00 00
+100 0 
+1 
+  
+||seperator||
+WARNING:
+00 00 00
+100 0 
+0 
+
+||seperator||
+Parents
+51 00 00
+100 0 
+1 //Parents begin sneaking in...
+  
+||seperator||
+WARNING:
+00 00 00
+100 0 
+0 
+Your parents are here
+||seperator||
+Parents
+51 00 00
+100 0 
+1 //Parents continue  sneaking in
+  
+||seperator||
+Mother
+01 00 00
+100 0 
+0 
+Oh, my dear son or daughter, I can’t bear to see you leave!
+||seperator||
+ Father
+02 00 00
+100 0 
+1 
+  
+||seperator||
+ 
+00 00 00
+100 0 
+0 
+Your father makes a dad joke.
+||seperator||
+You
+05 00 00
+100 0 
+0 
+It's a better place.
+I'll only be on the other side...
+||seperator||
+You
+00 00 00
+100 0 
+0 
+Of America.
+||seperator||
+Mother
+03 00 00
+100 0 
+0 
+You've been here forever, why would you ever leave?!
+||seperator||
+You
+00 00 00
+100 0 
+0 
+1 – Talk
+2 – Act 
+||seperator||

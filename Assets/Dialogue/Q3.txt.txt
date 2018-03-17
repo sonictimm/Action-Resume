@@ -1,0 +1,17 @@
+Employee
+00 00 00
+100 0 
+0 
+Do you even know how to code?
+
+
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – Use a break statement
+2 – Break his switch
+
+
+||seperator||

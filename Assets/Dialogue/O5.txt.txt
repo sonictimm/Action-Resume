@@ -1,0 +1,42 @@
+Greg Rice
+07 00 00
+100 0 
+0 
+Whoa
+||seperator||
+Tim Schafer
+03 00 00
+100 0 
+0 
+Are you thinking what I'm thinking?
+||seperator||
+Greg Rice
+50 00 00
+100 0 
+0 
+The company bus needs some gas.
+||seperator||
+Audio Designer
+52 00 00
+100 0 
+0 
+I'm way ahead of you, buddy!
+||seperator||
+Tim Schafer
+40 00 00
+100 0 
+1 
+  
+||seperator||
+Greg Rice
+40 00 00
+100 0 
+1 
+  
+||seperator||
+Audio Guy
+40 00 00
+100 0 
+0 
+LOCK AND LOAD!
+||seperator||

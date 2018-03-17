@@ -1,0 +1,49 @@
+Greg Rice
+02 00 00
+100 0 
+0 
+How many other people around here would have the brashness to say “no” to an idea before even hearing it?
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+Since you insist, I’ll send an e-mail to no@nope.com to see what he says to an interview.
+||seperator||
+Greg Rice
+07 00 00
+100 0 
+0 
+Let’s take a look at this next one.
+||seperator||
+Resume2
+70 00 00
+100 0 
+1 
+   
+||seperator||
+Resume1
+71 00 00
+100 0 
+1 
+  
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+...
+||seperator||
+Greg Rice
+00 00 00
+100 0 
+0 
+...
+||seperator||
+Greg Rice
+00 00 00
+100 0 
+0 
+1 – Whoa.
+2 – I’m deleting it.
+||seperator||

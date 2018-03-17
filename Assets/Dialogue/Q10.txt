@@ -1,0 +1,20 @@
+Tim Schafer
+11 00 00
+100 0 
+0 
+No...  ?
+You don’t progress in adventure games by saying No...
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+Make your next choice very carefully, it might be your last.
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+1 – Say Yes
+2 – How about no.
+||seperator||

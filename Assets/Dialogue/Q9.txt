@@ -1,0 +1,43 @@
+Tim Schafer
+07 00 00
+100 0 
+0 
+(whispering) Yes, I can’t wait to work at Double Fine.
+||seperator||
+  
+00 00 00
+100 0 
+0 
+An awkward silence fills the room.
+||seperator||
+Tim Schafer
+07 00 00
+100 0 
+0 
+(whispering) Say yes…
+||seperator||
+You
+01 00 00
+100 0 
+0 
+Yes?
+||seperator||
+Tim Schafer
+03 00 00
+100 0 
+0 
+Yes!
+You’re hired, too late, you made your choice, your office is next to the cool dude.
+||seperator||
+You
+51 00 00
+100 0 
+0 
+Wait a minute, I can’t just...
+||seperator||
+SUCCESS
+70 03 00
+100 0 
+0 
+Congratulations!
+||seperator||

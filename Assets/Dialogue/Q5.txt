@@ -1,0 +1,31 @@
+Tim Schafer
+04 00 00
+100 0 
+0 
+TIME OUT!
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+I think that anyone who writes interactive dialogue should at least know some basic programming.
+||seperator||
+You
+07 00 00
+100 0 
+0 
+So you know BASIC?
+||seperator||
+You
+23 00 00
+100 0 
+0 
+How about ADO.net integrated with PHP scripting on a responsive Apache-powered WYSIWYG IDE?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – That’s why you’re here
+2 – That’s not why you’re here.
+||seperator||

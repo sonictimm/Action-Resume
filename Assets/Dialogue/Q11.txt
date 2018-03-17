@@ -1,0 +1,32 @@
+Tim Schafer
+07 00 00
+100 0 
+0 
+If you really won’t say yes, how about no?
+||seperator||
+You
+43 00 00
+100 0 
+0 
+Okaybie.
+||seperator||
+GAME OVER
+70 00 00
+100 0 
+0 
+
+||seperator||
+GAME OVER
+00 00 00
+100 0 
+0 
+Your save file has been corrupted.
+Would you like to delete your RAM?
+||seperator||
+You
+00 00 00
+100 0 
+0 
+1 – Yes
+2 – No, I don’t want to download any more RAM.
+||seperator||

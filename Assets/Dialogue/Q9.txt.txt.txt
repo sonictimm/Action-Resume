@@ -1,0 +1,43 @@
+Tim Schafer
+00 00 00
+100 0 
+0 
+There is one thing I noticed about you from the start, and I could not turn you down when I saw it.
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+What was it?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – Your bad writing
+2 – Your hideous artwork
+||seperator||
+Error
+00 00 00
+100 0 
+0 
+GAME OVER
+||seperator||
+Error
+00 00 00
+100 0 
+0 
+Your save file has been corrupted.
+||seperator||
+Error
+00 00 00
+100 0 
+0 
+Would you like to delete your RAM?
+||seperator||
+Error
+00 00 00
+100 0 
+0 
+1 – Yes
+||seperator||

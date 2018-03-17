@@ -1,0 +1,32 @@
+  
+00 00 00
+100 0 
+0 
+Upon return to San Francisco, you engage in a time-honored tradition handed down by our forefathers.
+||seperator||
+  
+00 02 00
+110 1 
+0 
+THE INTERVIEW
+||seperator||
+Tim Schafer
+02 00 00
+100 0 
+0 
+Welcome to Double Fine!
+We brought you here because there is something very special about you.
+||seperator||
+You
+01 00 00
+100 0 
+0 
+What is it?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+1 – Your bad writing
+2 – Your hideous artwork
+||seperator||

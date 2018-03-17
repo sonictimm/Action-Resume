@@ -1,0 +1,48 @@
+Tim Schafer
+00 00 00
+094 0 
+0 
+Say yes…
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+Yes?
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+Yes!
+||seperator||
+Tim Schafer
+00 00 00
+100 0 
+0 
+You’re hired, too late, you made your choice, your office is next to the cool dude.
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+Wait a minute, I can’t..
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+You can’t wait to work at Double Fine?  
+||seperator||
+Employee
+00 00 00
+100 0 
+0 
+Good, now get started work before I fire you.
+||seperator||
+
+00 05 00
+100 0 
+0 
+SUCCESS!
+||seperator||

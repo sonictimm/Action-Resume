@@ -1,0 +1,56 @@
+  
+00 00 00
+100 0 
+0 
+Welcome to Double Fine Productions.
+We are always recruiting everybody... ALL THE TIME!
+||seperator||
+  
+00 00 00
+100 0 
+0 
+As a result, our e-mail server is completely filled with applications.
+||seperator||
+  
+00 00 00
+100 0 
+0 
+But don’t give up hope.  Now we are forced to go through and delete some of the applications.
+||seperator||
+  
+00 00 00
+100 0 
+0 
+You never know, we might even find yours.
+||seperator||
+Resume1
+70 00 00
+100 0 
+1 
+  
+||seperator||
+Greg Rice
+01 00 00
+100 0 
+0 
+Ok, so this application is from a product manager.
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+We might need their help shipping Psychonauts 2 in 2018
+||seperator||
+Tim Schafer
+01 00 00
+100 0 
+0 
+“Objective: To utilize top-notch paradigms whilst engaging in liberal discourse during rehydration.”
+||seperator||
+Greg Rice
+00 00 00
+100 0 
+0 
+1 – Hire them.
+2 – Laugh at them.
+||seperator||

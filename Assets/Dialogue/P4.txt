@@ -1,0 +1,32 @@
+﻿You
+12 00 00
+100 0 
+1 
+   
+||seperator||
+   
+00 00 00
+100 0 
+0 
+You try to ignore your parents.
+||seperator||
+Parents
+02 00 00
+100 0 
+1 
+  
+||seperator||
+   
+02 00 00
+100 0 
+0 
+They won't let you go without an explanation at this hour, young developer!
+||seperator||
+You
+00 00 00
+100 0 
+0 
+1 – Talk
+2 – Act 
+
+||seperator||

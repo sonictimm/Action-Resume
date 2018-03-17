@@ -1,0 +1,26 @@
+﻿You
+02 00 00
+100 0 
+0 
+I can explain...
+||seperator||
+   
+00 00 00
+100 0 
+0 
+You try to explain yourself.
+||seperator||
+   
+00 00 00
+100 0 
+0 
+They just don't understand.
+||seperator||
+You
+00 00 00
+100 0 
+0 
+1 – Talk
+2 – Act 
+
+||seperator||

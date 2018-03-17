@@ -1,0 +1,20 @@
+   
+00 00 00
+100 0 
+0 
+That’s okay, this is just a game.
+(Press Space to advance)
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Since you’re here, you may as well fill out an application.
+||seperator||
+   
+00 00 00
+100 0 
+0 
+1 – Okay
+2 – I don’t trust you
+||seperator||

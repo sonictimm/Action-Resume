@@ -1,0 +1,41 @@
+   
+00 00 00
+100 0 
+0 
+Really?   
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Fine.  
+If you really don’t want to play, just don’t press any buttons.
+I can sit here all day...
+||seperator||
+   
+00 00 00
+100 0 
+0 
+...
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Wait, what are you doing advancing the dialogue?
+I thought you didn’t want to play.
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Not that I even know who you are..
+Why don’t you give me your name?
+||seperator||
+   
+00 00 00
+100 0 
+0 
+1 – It’s my name, not yours.  You can’t have it!
+2 – Okay, but only because I’m tired of this. 
+||seperator||

@@ -1,0 +1,32 @@
+Tim Schafer
+12 00 00
+100 0 
+0 
+Delete it?  Greg, I love your brutal efficiency,
+but how about we at least read it first.
+||seperator||
+Tim Schafer
+02 00 00
+100 0 
+0 
+For all we know, this candidate could be the greatest Scummlet since the 1980’s.
+||seperator||
+Greg Rice
+61 00 00
+100 0 
+0 
+We've got to stay on schedule!
+||seperator||
+Greg Rice
+01 00 00
+100 0 
+0 
+With that in mind,
+||seperator||
+Greg Rice
+00 00 00
+100 0 
+0 
+1 – Whoa.
+2 – I’m deleting it.
+||seperator||

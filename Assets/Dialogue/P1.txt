@@ -1,0 +1,7 @@
+﻿You
+00 00 00
+100 0 
+0 
+1 – Try to explain.
+2 – Ignore them.
+||seperator||

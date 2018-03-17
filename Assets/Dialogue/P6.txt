@@ -1,0 +1,63 @@
+﻿You
+52 00 00
+100 0 
+1 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAPSLOCK!!
+||seperator||
+You
+52 00 00
+100 0 
+0 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAPSLOCK!!
+||seperator||
+Double Fine
+52 00 00
+100 0 
+1 
+Wait, come back!
+||seperator||
+Double Fine
+52 00 00
+100 0 
+0 
+Wait, come back!
+||seperator||
+You
+53 00 00
+100 0 
+1 
+  
+||seperator||
+You
+53 00 00
+100 0 
+1 
+  
+||seperator||
+Double Fine
+53 00 00
+100 0 
+1 
+  
+||seperator||
+Double Fine
+53 00 00
+100 0 
+1 
+  
+||seperator||
+   
+00 00 00
+100 0 
+0 
+Double Fine staff brings you back.
+||seperator||
+You
+00 00 00
+100 0 
+0 
+1 – Talk
+2 – Act 
+
+
+||seperator||

@@ -1,0 +1,13 @@
+GAME OVER
+00 00 00
+100 0 
+0 
+Too bad, RAM can neither be created or destroyed.
+It matters too much.
+||seperator||
+GAME OVER
+61 00 00
+100 0 
+0 
+Goodbye
+||seperator||
